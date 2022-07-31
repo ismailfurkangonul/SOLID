@@ -1,0 +1,8 @@
+C:\Users\ARIBILGI\Desktop\uygulama\SOLID\SingleResponsibility\bin\Debug\SingleResponsibility.exe.config
+C:\Users\ARIBILGI\Desktop\uygulama\SOLID\SingleResponsibility\bin\Debug\SingleResponsibility.exe
+C:\Users\ARIBILGI\Desktop\uygulama\SOLID\SingleResponsibility\bin\Debug\SingleResponsibility.pdb
+C:\Users\ARIBILGI\Desktop\uygulama\SOLID\SingleResponsibility\obj\Debug\SingleResponsibility.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\uygulama\SOLID\SingleResponsibility\obj\Debug\SingleResponsibility.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARIBILGI\Desktop\uygulama\SOLID\SingleResponsibility\obj\Debug\SingleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\uygulama\SOLID\SingleResponsibility\obj\Debug\SingleResponsibility.exe
+C:\Users\ARIBILGI\Desktop\uygulama\SOLID\SingleResponsibility\obj\Debug\SingleResponsibility.pdb

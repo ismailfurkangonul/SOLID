@@ -1,0 +1,8 @@
+C:\Users\ARIBILGI\Desktop\uygulama\SOLID\OpenClosed\bin\Debug\OpenClosed.exe.config
+C:\Users\ARIBILGI\Desktop\uygulama\SOLID\OpenClosed\bin\Debug\OpenClosed.exe
+C:\Users\ARIBILGI\Desktop\uygulama\SOLID\OpenClosed\bin\Debug\OpenClosed.pdb
+C:\Users\ARIBILGI\Desktop\uygulama\SOLID\OpenClosed\obj\Debug\OpenClosed.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\Desktop\uygulama\SOLID\OpenClosed\obj\Debug\OpenClosed.csproj.SuggestedBindingRedirects.cache
+C:\Users\ARIBILGI\Desktop\uygulama\SOLID\OpenClosed\obj\Debug\OpenClosed.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\Desktop\uygulama\SOLID\OpenClosed\obj\Debug\OpenClosed.exe
+C:\Users\ARIBILGI\Desktop\uygulama\SOLID\OpenClosed\obj\Debug\OpenClosed.pdb
